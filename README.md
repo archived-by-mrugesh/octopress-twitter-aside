@@ -1,5 +1,5 @@
 # octopress-twitter-aside
-An Octopress 2.0 twitter aside plugin to embed twitter timelines, latest tweets, etc.
+An [Octopress 2.0](http://github.com/imathis/octopress) twitter aside plugin to embed twitter timelines, latest tweets, etc.
 
 ## Installation
 
